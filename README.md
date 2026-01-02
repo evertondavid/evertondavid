@@ -124,15 +124,20 @@ const everton = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evertondavid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evertondavid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/evertondavid">
+    <img src="https://img.shields.io/github/followers/evertondavid?label=Followers&style=for-the-badge&logo=github&color=blueviolet" />
+  </a>
+  <a href="https://github.com/evertondavid?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/evertondavid&color=blueviolet" />
+  </a>
+  <img src="https://img.shields.io/github/stars/evertondavid?label=Stars&style=for-the-badge&logo=github&color=blueviolet" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondavid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=evertondavid&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
