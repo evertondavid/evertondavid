@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Everton+David+%F0%9F%91%8B;Software+Engineering+Manager;15%2B+Years+Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software Engineering Manager | Cloud Architect | AI & ML Enthusiast</h3>
+<h3 align="center">Software Engineering Manager | Cloud & Agile Delivery | AI & Machine Learning Engineering | Scalable Systems Architecture</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evertondavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,9 +17,32 @@
 ```typescript
 const everton = {
   role: "Software Engineering Manager",
-  location: "Canada 🇨🇦",
+  location: "Brazil 🇧🇷",
   experience: "15+ years",
-  education: "Software Engineering @ NBCC",
+  
+  education: {
+    bachelor: {
+      degree: "Information Systems",
+      level: "Bachelor's Degree"
+    },
+    postgraduate: [
+      {
+        degree: "Project Management",
+        institution: "FIAP",
+        level: "Postgraduate"
+      },
+      {
+        degree: "Leadership and Strategic People Management",
+        institution: "FIA",
+        level: "Postgraduate"
+      }
+    ],
+    diploma: {
+      program: "Software Engineering",
+      institution: "NBCC",
+      location: "Canada 🇨🇦"
+    }
+  },
   
   focus: [
     "Software Architecture & System Design",
@@ -31,7 +54,7 @@ const everton = {
   achievements: {
     nps: 90,
     churnRate: "<5%",
-    grossMargin: "35%",
+    grossMargin: "~35%",
     teamsManaged: "40+ professionals"
   },
   
@@ -103,14 +126,14 @@ const everton = {
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondavid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondavid&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evertondavid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evertondavid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evertondavid&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondavid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
